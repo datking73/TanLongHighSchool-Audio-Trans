@@ -11,3 +11,9 @@ pip install speechrecognition
 File AUDIO BẮT BUỘC PHẢI LÀ ĐỊNH DẠNG .WAV VÀ TÊN FILE PHẢI LÀ AUDIO.WAV
 
 TÊN MẶC ĐỊNH ĐỂ ỨNG DỤNG NHẬN FILE AUDIO LÀ AUDIO.WAV, NẾU MUỐN ĐỔI TÊN TRUY CẬP VÀO AudioTrans.py
+
+BẠN CÓ THỂ THAY ĐỔI NGÔN NGỮ CẦN DỊCH VÀ NGÔN NGỮ DỊCH BẰNG CÁCH TRUY CẬP
+
+https://cloud.google.com/translate/docs/languages
+
+DANH SÁCH CÁC NGÔN NGỮ CỦA API GOOGLE
